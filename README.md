@@ -1,7 +1,9 @@
-# Docker Bootcamp
-Docker Bootcamp - Less is more with Docker
+# Docker Bootcamp -  Less is more with Docker
 
-## Contents
+![360_F_422362343_zjYElufBxSSvc2XU3ObiCEIKtoVRyuCn](https://github.com/eu-waliston/Docker-Bootcamp/assets/82295321/3a51f395-429f-40f6-b10c-51e7fb4d6c8f)
+
+
+# Contents
 
 - Chapter 1, Installing Docker Locally, works through installing the core Docker Engine as well as
 supporting tools on macOS, Windows 10, and Linux desktops so that you are ready for the
