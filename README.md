@@ -1,6 +1,13 @@
+
+
+<div align="center">
+
 # Docker Bootcamp -  Less is more with Docker
 
-![360_F_422362343_zjYElufBxSSvc2XU3ObiCEIKtoVRyuCn](https://github.com/eu-waliston/Docker-Bootcamp/assets/82295321/3a51f395-429f-40f6-b10c-51e7fb4d6c8f)
+![Wonderous-Blue-Whale-Web](https://github.com/eu-waliston/Docker-Bootcamp/assets/82295321/af97cf53-7d52-4bfe-a90a-81fa8868636c)
+
+  
+</div>
 
 
 # Contents
